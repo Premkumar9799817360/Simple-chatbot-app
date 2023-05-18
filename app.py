@@ -1,4 +1,5 @@
 import streamlit as st
+import nltk
 from nltk.chat.util import Chat 
 
 #Pairs is a list of patterns and responses.
